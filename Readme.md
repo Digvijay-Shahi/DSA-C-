@@ -19,6 +19,15 @@ Problems are organized according to common **DSA topics and concepts**.
 
 # 🧠 Topics Covered
 
+## 1. Basics
+
+* Cout Promblem
+* Loops
+* If-Else
+* Functions
+* Pattern
+
+Folder: `arrays/`
 ## 1. Arrays
 
 * Two Sum
@@ -187,6 +196,7 @@ Folder: `dynamic-programming/`
 ```
 dsa-practice/
 │
+├── basics/
 ├── arrays/
 ├── strings/
 ├── hashing/
@@ -210,8 +220,6 @@ dsa-practice/
 
 # ⚙️ Languages Used
 
-* Python
-* JavaScript
 * C++
 
 ---
