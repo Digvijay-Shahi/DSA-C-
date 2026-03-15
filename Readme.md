@@ -27,7 +27,7 @@ Problems are organized according to common **DSA topics and concepts**.
 * Functions
 * Pattern
 
-Folder: `arrays/`
+Folder: `basics/`
 ## 1. Arrays
 
 * Two Sum
