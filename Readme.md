@@ -19,7 +19,7 @@ Problems are organized according to common **DSA topics and concepts**.
 
 # 🧠 Topics Covered
 
-## 1. Basics
+## 0. Basics
 
 * Cout Promblem
 * Loops
@@ -28,6 +28,10 @@ Problems are organized according to common **DSA topics and concepts**.
 * Pattern
 
 Folder: `basics/`
+
+---
+
+
 ## 1. Arrays
 
 * Two Sum
